@@ -53,6 +53,7 @@ Welcome to my profile! I'm Dhushanthan, a passionate Electrical Engineering fres
   [![Llama](https://img.shields.io/badge/-Llama-333333?style=flat&logo=python&logoColor=2B8AD8)](https://ai.facebook.com/blog/introducing-llama/)
   [![ChatGroq](https://img.shields.io/badge/-ChatGroq-333333?style=flat&logo=python&logoColor=F7A700)](https://www.groq.com/)
   [![HuggingFace](https://img.shields.io/badge/-HuggingFace-333333?style=flat&logo=huggingface&logoColor=FF7F7F)](https://huggingface.co/)
+  [![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logo=python&logoColor=4CAF50)](https://github.com/langchain/langchain)
   
   #### Visualization
   [![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=python&logoColor=3F5C7C)](https://matplotlib.org/)
