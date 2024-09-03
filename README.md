@@ -13,7 +13,7 @@ Welcome to my profile! I'm Dhushanthan, a passionate Electrical Engineering fres
 
 ### 💻 Programming Languages
   [![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)](https://www.python.org/)
-  [![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)](https://www.java.com/)
+  [![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)](https://www.oracle.com/java/)
   [![R](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)](https://www.r-project.org/)
 
 ### 🌐 Web Development
