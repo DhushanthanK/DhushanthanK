@@ -68,7 +68,7 @@ Welcome to my profile! I'm Dhushanthan, a passionate Electrical Engineering fres
   #### NoSQL
   [![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)](https://www.mongodb.com/)
 
-### Web Scraping 🕷️
+### 🕷️ Web Scraping 
   [![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium)](https://www.selenium.dev/)
   [![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-333333?style=flat&logo=python&logoColor=F7E1A0)](https://www.crummy.com/software/BeautifulSoup/)
 
