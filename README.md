@@ -89,12 +89,3 @@ Welcome to my profile! I'm Dhushanthan, a passionate Electrical Engineering fres
   [![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=google-cloud)](https://cloud.google.com/)
   [![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-333333?style=flat&logo=microsoft-azure&logoColor=0078D4)](https://azure.microsoft.com/)
 
-### Embedded Systems
-  [![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino)](https://www.arduino.cc/)
-  [![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-333333?style=flat&logo=raspberry-pi)](https://www.raspberrypi.org/)
-  [![STM32](https://img.shields.io/badge/-STM32-333333?style=flat&logo=stmicroelectronics)](https://www.st.com/en/microcontrollers/stm32.html)
-
-### Development & Design
-  [![SolidWorks](https://img.shields.io/badge/-SolidWorks-333333?style=flat&logo=solidworks)](https://www.solidworks.com/)
-  [![Eagle](https://img.shields.io/badge/-Eagle-333333?style=flat&logo=autodesk)](https://www.autodesk.com/products/eagle/overview)
-  [![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=matlab)](https://www.mathworks.com/products/matlab.html)
