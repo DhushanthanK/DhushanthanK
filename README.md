@@ -1,4 +1,4 @@
-# Dhushanthan Kumararatnam - Electrical Engineering Fresh Graduate
+# Dhushanthan Kumararatnam - Research Engineer at the Department of Manufacturing & Industrial Engineering, University of Peradeniya
 
 ## 📫 Contact Me
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/DhushanthanKumararatnam)
