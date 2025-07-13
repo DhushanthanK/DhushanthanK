@@ -7,14 +7,13 @@
 
 ## 👋 Hello!
 
-Welcome to my profile! I'm Dhushanthan, a passionate Electrical Engineering fresh graduate with a strong background in Machine Learning, AI, and Computer Vision. I'm driven by creating impactful and scalable solutions using the latest technologies. Alongside my expertise in machine learning, I also have experience in frontend and backend development.
+Welcome to my profile! I'm Dhushanthan, a passionate Engineer with a strong background in Robotics, Machine Learning, AI, and Computer Vision. I'm driven by creating impactful and scalable solutions using the latest technologies. Alongside my expertise in machine learning, I also have experience in frontend and backend development.
 
 ## Skills
 
 ### 💻 Programming Languages
   [![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)](https://www.python.org/)
   [![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)](https://www.oracle.com/java/)
-  [![R](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)](https://www.r-project.org/)
 
 ### 🌐 Web Development
   [![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -23,8 +22,6 @@ Welcome to my profile! I'm Dhushanthan, a passionate Electrical Engineering fres
   [![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)](https://www.typescriptlang.org/)
   [![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)](https://reactjs.org/)
   [![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)](https://angular.io/)
-  [![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)](https://getbootstrap.com/)
-  [![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)](https://redux.js.org/)
 
 ### 🧠 Data Science & Machine Learning
 
@@ -69,10 +66,6 @@ Welcome to my profile! I'm Dhushanthan, a passionate Electrical Engineering fres
   #### NoSQL
   [![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)](https://www.mongodb.com/)
 
-### 🕷️ Web Scraping 
-  [![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium)](https://www.selenium.dev/)
-  [![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-333333?style=flat&logo=python&logoColor=F7E1A0)](https://www.crummy.com/software/BeautifulSoup/)
-
 ### 🛠️ DevOps & Tools 
 
   #### Containerization
@@ -87,5 +80,4 @@ Welcome to my profile! I'm Dhushanthan, a passionate Electrical Engineering fres
 
 ### ☁️ Cloud Platforms 
   [![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=google-cloud)](https://cloud.google.com/)
-  [![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-333333?style=flat&logo=microsoft-azure&logoColor=0078D4)](https://azure.microsoft.com/)
 
